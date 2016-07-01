@@ -3,5 +3,5 @@
 * [介绍](README.md)
 * [微型计算机](wei_xin_ji_suan_ji.md)
 * [16位微处理器8086](wei_chu_li_qi_8086.md)
-* 存储器
+* [存储器](cun_chu_qi.md)
 
