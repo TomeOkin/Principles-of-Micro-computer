@@ -2,4 +2,5 @@
 
 * [介绍](README.md)
 * [微型计算机.md](weixinjisuanji.md)
+* 微处理器8086
 
