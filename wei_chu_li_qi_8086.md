@@ -28,8 +28,8 @@
   题目：
   （1）8086CPU在进行I/O写操作时，M/IO和DT/R必须是L，H。
   （2）当微处理器发出地址信息后，当__A__后，通知接口芯片，片选信号CE已稳定，输入口已与数据总线接通，微处理器可以进行操作。
-	A．RD有效， M/IO=L	B．RD有效， M/IO=H 
-	C．WR有效，M/IO =L	D．WR有效， M/IO=H
+    A．RD有效， M/IO=L	B．RD有效， M/IO=H 
+    C．WR有效，M/IO =L	D．WR有效， M/IO=H
  
  
 6.时序
