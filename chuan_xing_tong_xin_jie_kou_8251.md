@@ -20,8 +20,6 @@
    TxD
    RxD
 
-18.	在可编程通信接口电路Intel 8251的接口信号中，有同CPU接口的，有同外部装置接口。下面四个信号中，哪个不是同CPU接口的？    B    
-A．CLK     B． RxD    C．DB0     D．TxRDY
 19.	若传送率为1200，波特率因子n=16，则收、发时钟(RxC.TxC)的频率为(   B    )  
 　　A. 2400Hz        　　B.19.2KHz  
 　　C.20KHz          　  D.  1MHz
