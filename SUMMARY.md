@@ -9,4 +9,5 @@
 * [并行通信接口8255](bing_xing_tong_xin_jie_kou_8255.md)
 * [中断控制器8259](zhong_duan_kong_zhi_qi_8259.md)
 * [DMA控制器8237](dma_kong_zhi_qi_8237.md)
+* 计数器8253
 
