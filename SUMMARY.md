@@ -7,5 +7,5 @@
 * [微型计算机与外设的数据传输](wei_xing_ji_suan_ji_yu_wai_she_de_shu_ju_chuan_shu.md)
 * [串行通信接口8251](chuan_xing_tong_xin_jie_kou_8251.md)
 * [并行通信接口8255](bing_xing_tong_xin_jie_kou_8255.md)
-* 中断控制器8259
+* [中断控制器8259](zhong_duan_kong_zhi_qi_8259.md)
 
