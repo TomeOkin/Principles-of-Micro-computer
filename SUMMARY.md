@@ -8,4 +8,5 @@
 * [串行通信接口8251](chuan_xing_tong_xin_jie_kou_8251.md)
 * [并行通信接口8255](bing_xing_tong_xin_jie_kou_8255.md)
 * [中断控制器8259](zhong_duan_kong_zhi_qi_8259.md)
+* DMA控制器8237
 
