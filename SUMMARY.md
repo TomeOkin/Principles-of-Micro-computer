@@ -10,4 +10,5 @@
 * [中断控制器8259](zhong_duan_kong_zhi_qi_8259.md)
 * [DMA控制器8237](dma_kong_zhi_qi_8237.md)
 * [计数器8253](ji_shu_qi_8253.md)
+* [程序分析题](pa.pdf)
 
